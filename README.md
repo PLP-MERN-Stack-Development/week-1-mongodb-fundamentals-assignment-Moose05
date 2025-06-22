@@ -40,6 +40,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 3. Include a screenshot of your MongoDB database
 4. Update the README.md with your specific setup instructions
 
+## MY WORKING DATABASE 
+![image](https://github.com/user-attachments/assets/4c0bc85a-fcd7-4b56-a90e-a98ccd0f6746)
+
+
 ## Resources
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
